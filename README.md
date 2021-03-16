@@ -1,0 +1,1 @@
+This is Steelstrike's first git project!
